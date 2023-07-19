@@ -12,8 +12,7 @@ namespace ConAppDelegateExcercise
         static void Main(string[] args)
         {
             Spin obj = new Spin();  int energy = 0;int winprob=0;
-            SpinVal spinval = new SpinVal(obj.TenthSpin);
-            spinval -= obj.TenthSpin;
+            SpinVal spinval = new SpinVal(obj.InitialSpin);
             string name; int LuckyNum;
             Console.WriteLine("Enter you Name");
             name = Console.ReadLine();

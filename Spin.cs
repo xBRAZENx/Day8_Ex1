@@ -8,6 +8,10 @@ namespace ConAppDelegateExcercise
 {
     public class Spin
     {
+        public void InitialSpin(int energy,int winprob)
+        {
+            energy = 1;winprob = 100;
+        }
         public void FirstSpin(int energy, int winprob)
         {
             energy += 1;winprob += 10;
