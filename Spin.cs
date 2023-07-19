@@ -10,47 +10,47 @@ namespace ConAppDelegateExcercise
     {
         public void InitialSpin(int energy,int winprob)
         {
-            energy = 1;winprob = 100;
+            Program.energy = 1;Program.winprob = 100;
         }
         public void FirstSpin(int energy, int winprob)
         {
-            energy += 1;winprob += 10;
+            Program.energy += 1;Program.winprob += 10;
         }
         public void SecondSpin(int energy, int winprob)
         {
-            energy += 2; winprob += 20;
+            Program.energy += 2; Program.winprob += 20;
         }
         public void ThirdSpin(int energy, int winprob)
         {
-            energy -= 3; winprob -= 30;
+            Program.energy -= 3; Program.winprob -= 30;
         }
         public void FourthSpin(int energy, int winprob)
         {
-            energy += 4; winprob += 40;
+            Program.energy += 4; Program.winprob += 40;
         }
         public void FifthSpin(int energy, int winprob)
         {
-            energy -= 5; winprob -= 50;
+            Program.energy -= 5; Program.winprob -= 50;
         }
         public void SixthSpin(int energy, int winprob)
         {
-            energy -= 1; winprob -= 60;
+            Program.energy -= 1; Program.winprob -= 60;
         }
         public void SeventhSpin(int energy, int winprob)
         {
-            energy += 1; winprob += 70;
+            Program.energy += 1; Program.winprob += 70;
         }
         public void EighthSpin(int energy, int winprob)
         {
-            energy -= 2; winprob -= 20;
+            Program.energy -= 2; Program.winprob -= 20;
         }
         public void NinthSpin(int energy, int winprob)
         {
-            energy -= 3; winprob -= 30;
+            Program.energy -= 3; Program.winprob -= 30;
         }
         public void TenthSpin(int energy, int winprob)
         {
-            energy += 10; winprob += 100;
+            Program.energy += 10; Program.winprob += 100;
         }
     }
 }

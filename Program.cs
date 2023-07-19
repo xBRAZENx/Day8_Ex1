@@ -9,9 +9,10 @@ namespace ConAppDelegateExcercise
     public delegate void SpinVal(int a,int b);
     public class Program
     {
+        public static int energy;public static int winprob;
         static void Main(string[] args)
         {
-            Spin obj = new Spin();  int energy = 0;int winprob=0;
+            Spin obj = new Spin();
             SpinVal spinval = new SpinVal(obj.InitialSpin);
             string name; int LuckyNum;
             Console.WriteLine("Enter you Name");
@@ -37,7 +38,8 @@ namespace ConAppDelegateExcercise
                 }
             }
             spinval(energy, winprob);
-            if(energy>=4 && winprob > 60)
+            Console.WriteLine("Final energy is = "+energy + " and Final Winning Probability is = " + winprob);
+            if (energy>=4 && winprob > 60)
             {
                 Console.WriteLine("YOU WIN !!!");
             }
