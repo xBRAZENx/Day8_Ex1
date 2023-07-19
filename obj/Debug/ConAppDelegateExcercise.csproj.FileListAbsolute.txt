@@ -1,0 +1,8 @@
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\bin\Debug\ConAppDelegateExcercise.exe.config
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\bin\Debug\ConAppDelegateExcercise.exe
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\bin\Debug\ConAppDelegateExcercise.pdb
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\obj\Debug\ConAppDelegateExcercise.csproj.AssemblyReference.cache
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\obj\Debug\ConAppDelegateExcercise.csproj.SuggestedBindingRedirects.cache
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\obj\Debug\ConAppDelegateExcercise.csproj.CoreCompileInputs.cache
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\obj\Debug\ConAppDelegateExcercise.exe
+C:\Genpact Training\TrainingDay8\ConAppDelegateExcercise\ConAppDelegateExcercise\obj\Debug\ConAppDelegateExcercise.pdb
